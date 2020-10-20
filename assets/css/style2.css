@@ -1,0 +1,95 @@
+form{
+    height: 800px;
+    display: flex;
+    flex-wrap: wrap ;
+    margin: 50px;
+
+}
+#hamac {
+    background-image: url(../img/Hamac.jpeg);
+    background-size: cover;
+
+}
+
+.nom{
+    
+    width: 350px;
+    height: 40px;
+    margin-top: 75px;
+    margin-left: 95px;
+    
+
+}
+
+.telephone{
+    width: 870px;
+    height: 40px;
+    margin-top: 75px;
+    margin-left: 60px;
+    
+
+}
+
+.prenom{
+    width: 350px;
+    height: 40px;
+    margin-top: 5px;
+    margin-left: 95px;
+    
+
+
+}
+
+.mail{
+    width: 870px;
+    height: 40px;
+    margin-top: 5px;
+    margin-left: 60px;
+
+}
+
+.adresse{
+    width: 1300px;
+    height: 40px;
+    margin-top: 5px;
+    margin-left: 95px;
+
+}
+
+.codePostal{
+    width: 350px;
+    height: 40px;
+    margin-top: 5px;
+    margin-left: 95px;
+}
+
+.ville{
+    width: 865px;
+    height: 40px;
+    margin-top: 5px;
+    margin-left: 60px;
+
+}
+
+.demande{
+    margin-top: 5px;
+    margin-left: 800px;
+    padding: 20px;
+
+}
+
+.bouton{
+    width: 140px;
+    height: 40px;
+    margin-top: 30px;
+    margin-left: 1280px;
+    margin-bottom: 5px;
+    background-color: #535353;
+    border-radius: 20px;
+    color: #ffffff;
+
+}
+
+input{
+    padding-left: 20px;
+}
